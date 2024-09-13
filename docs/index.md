@@ -1,6 +1,6 @@
 ## Projects
 
-[Bugnist](https://github.com/AndrewCheng02/Debuggers) | March 2024 - Present
+[Bugnist](https://github.com/AndrewCheng02/Debuggers) | March 2024 - June 2024
 * Machine Learning 3D Volume Segmentation Classification Kaggle Contest
 * Torch, Plotly, Scikit Image, Juypter, Kubernetes 
 
