@@ -1,6 +1,6 @@
 ## Projects
 
-[Bugnist](https://github.com/AndrewCheng02/Debuggers) | March 2024 - June 2024
+[Bugnist](https://github.com/AndrewCheng02/Bugnist-Competition-Submission) | March 2024 - June 2024
 * Machine Learning 3D Volume Segmentation Classification Kaggle Contest
 * Torch, Plotly, Scikit Image, Juypter, Kubernetes 
 
@@ -12,7 +12,7 @@
 
 ---
 
-[Online Food Recipe Recommender]([https://andrewcheng02.github.io/DSC180B-Capstone-ProjectA09/docs/](https://github.com/AndrewCheng02/CSE-158-Assignment-2)) | Sept 2023 - Dec 2023
+[Online Food Recipe Recommender](https://github.com/AndrewCheng02/CSE-158-Assignment-2) | Sept 2023 - Dec 2023
 * Predicting a recipe’s rating based on similarity to other recipes and their features
 * Pandas, Numpy, Juypter, Docker 
 
