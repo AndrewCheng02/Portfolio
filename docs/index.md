@@ -13,8 +13,21 @@
 ---
 
 [Online Food Recipe Recommender](https://github.com/AndrewCheng02/CSE-158-Assignment-2) | Sept 2023 - Dec 2023
-* Predicting a recipe’s rating based on similarity to other recipes and their features
+* Recommends a recipe to a user giving their previous history of website views
 * Pandas, Numpy, Juypter, Docker 
+
+---
+
+[All Recipes.com Rating Predictor](https://github.com/AndrewCheng02/Recipe-Rating-Predictor-Project) | Sept 2022 - Dec 2022
+* Predicting a recipe’s rating based on similarity to other recipes and their features
+* Pandas, Scikit-Learn, Numpy, Juypter, Docker 
+
+---
+
+
+[SDPD Project](https://github.com/AndrewCheng02/SDPD-Project) | Sept 2022 - Dec 2022
+* Answers the question if race play a factor in getting stopped by the San Diego Police Department
+* Pandas, Scikit-Learn, Numpy, Juypter, Docker 
 
 ---
 
